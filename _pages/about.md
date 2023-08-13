@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "BeCiL (Betar Circuits Lab)"
-excerpt: "About me"
+excerpt: "About lab"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,3 +15,4 @@ BeCiL is exploring circuit techniques to revolutionize wireless systems. Current
 2. Lightweight RF transceivers
 3. Wireless power transfer
 4. Wide-band frequency synthesis
+5. Arrays
