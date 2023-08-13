@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "BeCiL group webpage"
+title: "BeCiL (Betar Circuits Lab)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-BeCiL (Betar Circuits Lab)
-======
 "Betar" is a Hindi word meaning "wireless".
 
 BeCiL is exploring circuit techniques to revolutionize wireless systems. Currently we are working on:
