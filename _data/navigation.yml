@@ -1,13 +1,10 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications_old/
+  - title: "People"
+    url: /people/
 
-  - title: "Talks"
-    url: /talks/    
+- title: "Research"
+    url: /research/
 
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Students"
-    url: /students/  
+    url: /teaching/
